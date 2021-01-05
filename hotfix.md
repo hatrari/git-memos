@@ -1,6 +1,6 @@
 # How to commit an Hotfix
 
-`git checkout recette'
+`git checkout recette`
 
 `git checkout -b hotfix`
 
