@@ -21,3 +21,9 @@
 `git rebase --continue`
 
 `git push origin myBranch`
+
+`git checkout develop`
+
+`git merge myBranch`
+
+`git push origin develop`
